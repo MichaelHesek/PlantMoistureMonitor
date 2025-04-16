@@ -1,3 +1,4 @@
+using System;
 using PlantMoistureMonitor.Core.Interfaces;
 
 namespace PlantMoistureMonitor.ConsoleApp.Services

@@ -3,6 +3,7 @@ using Xunit;
 using Microsoft.Extensions.Logging;
 using PlantMoistureMonitor.ConsoleApp.Services;
 using PlantMoistureMonitor.Core.Interfaces;
+using System.Threading.Tasks;
 
 namespace PlantMoistureMonitor.Tests
 {

@@ -1,3 +1,5 @@
+using System.Threading.Tasks;
+
 namespace PlantMoistureMonitor.Core.Interfaces
 {
     public interface INotificationService
